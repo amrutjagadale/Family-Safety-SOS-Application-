@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025095364460",
+    "project_id": "myfamily-11830",
+    "storage_bucket": "myfamily-11830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025095364460:android:7f913830cc16a9b8a70d49",
+        "android_client_info": {
+          "package_name": "com.example.familysafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaRee9Q1vaB_ipKeVJmtHTOlli4_BVRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

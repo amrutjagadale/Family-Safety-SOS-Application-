@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FamilySafety</string>
+    <string name="in_case_of_emergency_nkeep_telling_family_nmembers_to_contact_me">In case of emergency, \nkeep telling family \nmembers to contact me</string>
+    <string name="sos">SOS</string>
+    <string name="guard">GUARD</string>
+    <string name="open_when_you_are_on_a_npotentially_dangerous_njourney">Open when you are on a \npotentially dangerous \njourney.</string>
+    <string name="home">Home</string>
+    <string name="guard_title">Guard</string>
+    <string name="profile">Profile</string>
+    <string name="dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id_auth"></string>
+</resources>
